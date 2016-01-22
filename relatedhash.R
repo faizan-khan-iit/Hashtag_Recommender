@@ -21,14 +21,6 @@ RelatedHashtag <- function(token = NULL, hashtag = NULL) {
     }
   }
 
-  all_tweets  <- gsub(x = all_tweets, pattern = "https?://.+$|\\n","")
-
-  RelatedHashList <- list()
-  for (tweet in all_tweets) {
-    temp <- strsplit(tweet, " ")[[1]]
-    hash <- list(temp[grep("#[a-zA-Z0-9]+", temp)])
-    RelatedHashList <- append(RelatedHashList, hash)
-  }
-
-  RelatedHashList
+  lapply(all_tweets, function(x) {
+                      regmatches(x , gregexpr("#[^ ]*", x))[[1]]})
 }
