@@ -1,0 +1,281 @@
+143 I love you
+2DAY Today
+4EAE For ever and ever
+ADN Any day now
+AFAIK As far as I know
+AFK Away from keyboard
+ATM At the moment
+B/C Because
+B4 Before
+BF / GF Boyfriend / Girlfriend
+BFN Bye for now
+BOL Be on later
+BRB Be right back
+BTW By the way
+DM Direct message
+DWBH Don’t worry, be happy
+F2F or FTF Face to face
+FB Facebook
+FF Follow Friday (Follow Friday is a recurring topic on Twitter. Each week, users post lists of people that they think others should followusing the #FF or #FollowFriday hashtag.)
+FTL For the loss / For the lose
+FTW For the win
+FWB Friends with benefits
+FWIW For what it’s worth
+FYEO For your eyes only
+FYI For your information
+GLHF Good luck, have fun
+GR8 Great
+HAK Hugs and kisses
+HAND Have a nice day
+HT or H/T Hat tip or heard through (usually referencing news or an informative link)
+HTH Hope this helps / Happy to help
+IANAL I am not a lawyer
+IDK I don’t know
+IIRC If I remember correctly
+IKR I know, right?
+ILY / ILU I love you
+IMHO In my honest opinion / In my humble opinion
+IMO In my opinion
+IRL In real life
+IU2U It’s up to you
+IYKWIM If you know what I mean
+J/K Just kidding
+J4F Just for fun
+JIC Just in case
+JSYK Just so you know
+K or KK Okay
+LMBO Laughing my butt off
+LMK Let me know
+LOL Laughing out loud
+MM Music Monday. Another recurring Twitter topic. In this case, users post a song or two that will get your week off to a better start.
+MSM Mainstream media
+NAGI Not a good idea
+NM Never mind
+NMU Not much, you?
+NP No problem or Now playing (as in “My MP3 stream is now playing LMFAO’s Party Rock.)
+NSFW Not safe for work. If this is attached to a link, you’re strongly advised not to check it out while in the workplace or any other venue where inappropriate content would be, well, inappropriate.
+NSFL Not safe for life. Usually a humorous disclaimer that something formerly innocent is going to be irreparably sullied if you click the link.
+NTS Note to self
+OH Overheard
+OMG Oh my God
+ORLY Oh, really?
+PAW Parents are watching
+PLS or PLZ Please
+PPL People
+PTB Please text back
+QQ Crying. Rather than an abbreviation, this is an emoticon, a picture created in text. The tails of the capital Q form tears, while the circles are the eyes. Saying “QQ” aloud also can mimic the “boo hoo” of someone who’s upset. Usually used sarcastically or contemptuously.
+RAK Random act of kindness
+RL Real life
+ROFL Rolling on the floor laughing
+RT Retweet. Similar to forwarding an email, Twitter lets you echo other people’s tweets for your own followers to read. In some cases, folks will ask for something they’ve said to be amplified by saying “Please RT” or “PLS RT.”
+RUOK Are you okay? In Australia, #RUOK is a regularly trending topic, following a government initiative called RUOK Day, which raises awareness of mental health issues on social networking sites.
+SMH Shaking my head
+SRSLY Seriously
+SSDD Same stuff, different day
+SWAK Sealed with a kiss
+SWYP So, what’s your problem?
+TIA Thanks in advance
+TIME Tears in my eyes
+TMB Tweet me back
+TMI Too much information
+TMRW Tomorrow
+TTYL Talk to you later
+TY or TU Thank you
+VSF Very sad face
+WB Welcome back
+WTH What the heck?
+WTPA Where the party at?
+WYCM Will you call me?
+YGM You’ve got mail (to alert your texting partner that you’ve contacted them via that staid old email thing. That’s sooo 2001!)
+YMMV Your mileage may vary
+YW You’re welcome
+ZOMG Oh my god (sarcastic)
+
+"A" Twitter Tags for Computing and Technology Topics
+#AMD – Advanced Micro Devices (AMD). Follow: @AMDRadeon.
+#Analytics – General analytics topics (e.g. BI, CRM, Web analytics).
+#Android – Android Mobile operating System (OS). Follow: @Android, @AndroidDev.
+#Answers – Tweets that provide answers to a specific question.
+#App – Commonly refers to mobile apps. Can also mean enterprise apps.
+#AppDev – Topics of interest to application (app) developers.
+#Apple – Apple Corporation.
+"B" Twitter Tags for Computing and Technology Topics
+#B2B – General business-to-business (B2B) topics.
+#BI – General  business intelligence (BI) topics.
+#BigData – General  big data topics. Often used with #Data. Follow @NetworkNotes.
+#Biz – General business topics.  Same as #business.
+#BlackBerry – General  BlackBerry topics (company or device related). Follow @BlackBerry.
+#Business – General business topics. Same as  #biz.
+"C" Twitter Tags for Computing and Technology Topics
+#CEM –Customer experience management (CEM), Customer management  topics.
+#Cloud – General cloud computing topics.  Same as #CloudComputing. Follow InfoStorOnline.
+#CloudBackup – General cloud computing backup and storage topics.
+#CloudComputing – General cloud computing topics. Same as #Cloud.
+#ContentMarketing – General  Web content marketing topics.
+#Convergence – Technology convergence. Usually associated with data center or telecom topics.
+#CRM – General customer relationship management (CRM) topics. Follow @EntApps2Day.
+#CSS – Web development using Cascading Style Sheets (CSS). Often used with #WebDev.
+"D" Twitter Tags for Computing and Technology Topics
+#Data – General topics about data. Often used with #BigData.
+#DataCenter – General data center topics.
+#Datamining – General data mining topics.
+#Devs – Topics of interest to developers (devs). Follow @DeveloperCom.
+"E" Twitter Tags for Computing and Technology Topics
+#ecommerce – General  electronic commerce (ecommerce)  topics.
+#Epic – Indicates a company or product did something amazing.
+#Ethernet – General analytics topics related to Ethernet. Follow @NetworkNotes.
+
+"F" Twitter Tags for Computing and Technology Topics
+#Fail – Indicates a company or product did something that didn't work well.
+#FCoE – General analytics topics related to Fibre Channel over Ethernet (FCoE).
+
+"G" Twitter Tags for Computing and Technology Topics
+#Gadgets – General gadgets and device topics.
+#Gartner – Indicates Gartner research or analysis. Follow @Gartner_inc.
+ #GreenIT –  General green IT & green initiatives and computing topics.
+"H" Twitter Tags for Computing and Technology Topics
+#Hadoop – General Apache Hadoop topics. Follow @TheASF.
+#Hardware –  General computer hardware topics.
+#HealthIT – General Health Information Technology topics. Same as #HIT.
+#HIT – General Health Information Technology (HIT) topics. Same as #HealthIT.
+#HR – General human resources (HR) and HR management topics.
+#HTML5 – General HTML5 topics. Often used with #WebDev. Follow @htmlgoodies.
+"I" Twitter Tags for Computing and Technology Topics
+#IBM – International Business Machines Corp. Follow @IBM, @IBMWatson.
+#Infographic – Indicates infographic content or link.
+#iOS – Apple's mobile operating system for its iPhone, iPod touch, iPad, Apple TV.
+#iPad – General  Apple iPad device topics.|
+#iPhone – General  Apple iPhone device topics.
+#IT – General Information Technology (IT) topics.
+"J" Twitter Tags for Computing and Technology Topics
+#Jobs – General jobs/work topics (e.g. job statistics, openings and hiring).
+"K" Twitter Tags for Computing and Technology Topics
+#KDE – General open source K Desktop Environment topics. Follow @kdecommunity.
+"L" Twitter Tags for Computing and Technology Topics
+#Leadership – General leadership and thought leadership topics.
+#Linux – General Linux topics. Follow @linuxfoundation.
+A   B   C   D   E   F   G   H  I  J   K   L   M   N  O   P   Q   R   S   T   U   V   W   X   Y   Z 
+Quick Tip: Click each #hashtag in the list below to all view real-time Twitter search results. Click the related @Name links to follow official Twitter accounts.
+"M" Twitter Tags for Computing and Technology Topics
+#Management – General  business management topics.
+#Marketers – Topics of interest to online and social marketers.
+#Marketing –  General  Marketing topics.
+#Microsoft – Microsoft Corporation.  Follow @Microsoft.
+#Mobile – General  mobile device topics.
+#MobileDev –  Topics of interest to mobile developers (e.g. design, software, tools).
+#MSFT– Microsoft Corporation.  Follow @Microsoft.
+"N" Twitter Tags for Computing and Technology Topics
+
+#News – Topics that are making news headlines, or tweets with links to a news story. 
+#Networking – General topics and discussion about computer networking. Follow @NetworkNotes.
+"O" Twitter Tags for Computing and Technology Topics
+#Office365 – Microsoft Office 365. Follow @Office365.
+#OpenFlow  – Open Flow, Open Networking Foundation (ONF). Follow @openflow.
+#OpenCloud – OpenCloud LTD, Open Cloud Initiative. Follow @OpenCloudLTD, @opencloud.
+#OpenSource –  General open source software and development topics.
+#Oracle – Oracle Corporation. Follow @Oracle.
+"P" Twitter Tags for Computing and Technology Topics
+#PatchTuesday  –  Microsoft security patch releases and discussion.
+#PC – General computer topics.
+#PHP – General PHP and developer discussion.
+#PredictiveAnalytics – General predictive analytics topics. Often used with #Analytics.
+"Q" Twitter Tags for Computing and Technology Topics
+#Quote – Quotable quotes about any topic, famous quotes.
+"R" Twitter Tags for Computing and Technology Topics
+#Rails – General Ruby on Rails (Rails) open source framework topics. Often used with #Ruby.
+#Ruby –  General Ruby (programming language) topics. Often used with #Rails.
+"S" Twitter Tags for Computing and Technology Topics
+#SAP – SAP AG and SAP products.  Follow @SAP.
+#SCRM – General social customer relationship management (SCRM) topics.
+#SDN – General software defined networking (SDN) topics. Follow @NetworkNotes.
+#Security – General computer and network security discussion. Follow eSecurityP.
+#SEO – General search engine optimization (SEO) topics.
+#SmallBiz – General topics of interest to small businesses.
+#Smartphone – General mobile and smartphone topics.
+#SMB – General topics of interest  small-to-midsize business (SMB).
+#SMM – Used in tweets about Social Media Marketing (SMM).
+#Social – General  social media topics and discussion. Same as #SocialMedia.
+#SocialBiz – Used in tweets about Social Media and small businesses.
+#SocialMedia – General social media topics and discussion. Same as #Social.
+#SSD – General solid state storage (SSD) topics and discussion.
+#Storage – General data storage topics and discussion. Follow InfoStorOnline.
+#Strategy – General  topics about business, corporate or product strategy.
+#Surface – General Microsoft Surface Tablet topics. Often used with #Tablet.
+#SurfacePro – General Microsoft Surface Pro tablet topics. Often used with #Tablet.
+"T" Twitter Tags for Computing and Technology Topics
+#Tablet – General tablet / mobile device topics.
+#Tech – General technology topics. Same as #Technology.
+#Techfail – Indicates a technology-related company or product did something that didn't work well.
+#Technology – General technology topics. Same as #Tech.
+#TipsAndTricks – Tweets that provide how-to, best practice and tips advice.
+#TradeShow – General tradeshow and event discussion, live tweets from a tradeshow.
+#Trends - Notes a company, product or industry trend. Often used with #News.
+#Twitter – General Twitter topics.
+"U" Twitter Tags for Computing and Technology Topics
+#UX – General user experience (UX) design topics.
+"V" Twitter Tags for Computing and Technology Topics
+#Virtualization – General virtualization topics. Follow @serverwatch
+#VMware –  VMware, Inc.  Follow @VMware.
+"W" Twitter Tags for Computing and Technology Topics
+#Web – General Web-related topics (design, software etc.)
+#WebDev –  Topics of interest to a Web developer (e.g. design, software, tools).
+#WebDesign –  General Web development and design topics.
+#Whitepaper –  Indicates white paper (research) content or link.
+#Win8 –  General Windows 8 discussion and topics.
+#Win8Dev –  Windows 8 development topics.
+#WP8 –  General Windows 8 discussion and topics.
+"X" Twitter Tags for Computing and Technology Topics
+#Xen – General open source Xen (virtual machine) topics.
+#XML – General Extensible Markup Language (XML) topics. Often used with #WebDev.
+"Y" Twitter Tags for Computing and Technology Topics
+#Yahoo – Yahoo Inc. Follow @Yahoo.
+#YouTube – General YouTube topics and discussion. Follow @YouTube.
+"Z" Twitter Tags for Computing and Technology Topics
+#ZeroDay – General discussion about security, exploit and vulnerabilities.
+
+
+
+
+
+
+
+
+AllMyTweets: A tool that allows users to view all of their tweets on one page and export them through Firefox.
+Autopostr: With this tool, Twitter users can instantly inform all of their friends whenever they post a photo on Flickr.
+Bit.ly: A URL shorten service to shrink tweet URLs to 20 characters, plus track and share URLs.
+Bkkeepr: A Twitter tool that allows users to keep track of books they are currently reading.
+Blackbird: The name of a Twitter client for BlackBerry smartphones.
+Buffer: A social media management platform that allows users to manage their various social media accounts in one place.
+BuzzSumo: A tool that allows users to search for Twitter’s key influencers for specific subjects and the most shared content.
+Commun.it: A Twitter relationship management tool that indicates who your influencers, supporters, and engaged members are.
+Flock: A social browser with many Twitter related features. Users can send and read tweets, read mentions, and perform and save Twitter searches. There is also a character count tool Twitter users can use to make sure they stay within the character limit.
+Foamee: A website where Twitter users can keep track of who owes them drinks (beer or coffee) and what drinks they owe to others.
+FollowersForSale: With this Twitter tool, users can buy a certain number of followers for a set price.
+FollowerWonk: A tool for Twitter that provides analytics, follower segmentation, social graph tracking, compares users, and more.
+Friend or Follow: A Twitter tool to find out whether people you following are following you back, and whether they are following the people following them. Interested twitterers simply need to enter their Twitter username at the site.
+GeoChirp: A Twitter application that allows users to find other Twitter users who have similar interests in any specific geographical location.
+Goo.gl: Google's own URL shortener. Offers short URLs, reliable service and good uptime.
+GroupTweet: A Twitter tool that lets users send messages that can only be viewed by a selected group of Twitter friends.
+HashTags.org: Categorize your tweets so people can find them and understand what they are all about.
+Hootsuite: A social media management platform that is compatible with a variety of social media sites including Twitter, Facebook, and Google+.
+Ianswr: Compiles questions asked on Twitter and permits any Twitter user to answer them.
+InnerTwitter: Encourages Twitter users to meditate by sending chimes at specific time intervals or at random times throughout the day. These chimes are the signal for users to spend a few quiet moments in meditation.
+iTweet: This is an interface for Twitter designed to make it easier to use Twitter from an iPhone.
+LinkBunch: This tool lets Twitter users combine several links into one link so they can be shared in a single tweet.
+LoudTwitter: A Twitter tool that allows Twitter users to display Twitter updates on their blog.
+PocketTweets: The name of a mobile Web-based Twitter client for the iPhone. You can use it to see the latest tweets from your contacts or to update your status remotely as well as download other Twitter applications.
+SocialOomph: A service that allows its users to schedule tweets, track keywords, helps to extend Twitter profiles, and more.
+TinyURL: shrink your URLs to 23 characters on Twitter or any online publishing space.
+Topsy: A tool for Twitter analytics of search, monitoring, and other variables.
+TurnSocial: A free social toolbar for small businesses to add popular social media and location-based applications, in addition to content from Facebook, Twitter, YouTube, Foursquare and more.
+TweetDeck: A tool for Twitter that includes real-time tracking, tweet managing, organizing, and engagement.
+TweetStats: Use this tool to see Twitter stats including tweets per hour, tweets per month, tweet timeline and reply statistics.
+Tweriod: A tool that provides users with the best time to tweet with analytics that are based on the users’ own tweets as well as their followers’ tweets .
+Twibs: An application that lets Twitter users find businesses on twitter.
+Twidroid: A full-featured Twitter app designed for use on Android mobile phones.
+TwitLonger: A tool that allows users to submit tweets longer than the allowed 140 characters by automatically including a link that followers can click to continue reading the full message.
+Twitonomy: A resource that provide Twitter analytics from competitors, as well as which tweets have the highest retweet rate, and more.
+Twitterfeed: Allows users to add RSS feeds that can be shared automatically through their Twitter account and other social media sites.
+Twitrank: A Twitter user ranking service that provides an updated list of the top 150 Twitter users
+Twitter Widgets: Twitter's own widgets are compatible with any website and most social networks.
+Twtrland: A tool that allows users to filter other users based on categories that can help them find relevant users to connect with.
