@@ -26,7 +26,7 @@ We will be more than happy to improve upon this basic project. Any advice is app
  - Contact us([see below](https://github.com/faizan-khan-iit/Hashtag_Recommender#contact-details)) with the features you would like to see in the project and are willing to contribute to.
 
 ### Requirements
-The basic requirements of the project are as follows (Note: The project was developed with the following specifictaions and may also work with earlier versions):
+The basic requirements of the project are as follows (Note: The project was developed with the following specifications and may also work with earlier versions):
  - Python v2.7
   - [twitter](https://pypi.python.org/pypi/twitter)
   - [HTMLParser](https://docs.python.org/2/library/htmlparser.html)
@@ -40,7 +40,7 @@ The recommender uses the [Twitter API](https://dev.twitter.com/overview/document
 
 ##### Preprocessing
 Cleaning the tweets before processing is done using various steps.
- - [This infographic](http://www.analyticsvidhya.com/blog/2015/06/quick-guide-text-data-cleaning-python/) provides some the basic details about cleaning tweet text.
+ - [This infographic](http://www.analyticsvidhya.com/blog/2015/06/quick-guide-text-data-cleaning-python/) provides some of the basic details about cleaning tweet text.
  - Most of the cleaning is done using Regular Expressions in [Python 2](https://docs.python.org/2/library/re.html)/[3](https://docs.python.org/3/library/re.html) and [R](https://stat.ethz.ch/R-manual/R-devel/library/base/html/regex.html). [This tutorial from Tutorials Point](http://www.tutorialspoint.com/python/python_reg_expressions.htm) may be helpful.
  - The stop words to remove from the tweets may be found [here](http://www.ranks.nl/stopwords).
 
