@@ -23,7 +23,7 @@ To build a Twitter Hashtag Recommendation System. The System will recommend the 
 We will be more than happy to improve upon this basic project. Any advice is appreciated. Here is how you can contribute to the project:
  - The easiest way to contribute is to point out issues.
  - Send us PRs with what you think can be enhanced in the project.
- - Contact us([see below](https://github.com/faizan-khan-iit/Hashtag_Recommender/blob/edit_branch/README.md#contact-details)) with the features you would like to see in the project and are willing to contribute to.
+ - Contact us([see below](https://github.com/faizan-khan-iit/Hashtag_Recommender#contact-details)) with the features you would like to see in the project and are willing to contribute to.
 
 ### Requirements
 The basic requirements of the project are as follows (Note: The project was developed with the following specifictaions and may also work with earlier versions):
