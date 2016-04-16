@@ -55,14 +55,12 @@ Please contact us regarding any issues and/or suggestions
 B.Tech, Part II
 Department of Computer Science and Engineering
 IIT(BHU), Varanasi, India
-[https://github.com/cryptomanic/]
-[deepak.yadav.cse14@iitbhu.ac.in]
-[deepakyadav.iitbhu@gmail.com]
+ - [Github](https://github.com/cryptomanic/)
+ - [Institute EMail ID](deepak.yadav.cse14@iitbhu.ac.in)
 
 ###### Faizan Uddin Fahad Khan
 Integrated Dual Degree, Part II
 Department of Computer Science and Engineering
 IIT(BHU), Varanasi, India
-[https://github.com/faizan-khan-iit]
-[fufahad.khan.cse14@iitbhu.ac.in]
-[faizan.khan.iitbhu@gmail.com]
+ - [Github](https://github.com/faizan-khan-iit)
+ - [Institute EMail ID](fufahad.khan.cse14@iitbhu.ac.in)
