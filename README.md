@@ -52,14 +52,12 @@ The app uses a very basic interface developed using the [Python Tkinter module](
 Please contact us regarding any issues and/or suggestions
 
 ###### Deepak Yadav
-B.Tech, Part II
 Department of Computer Science and Engineering
 IIT(BHU), Varanasi, India
  - [Github](https://github.com/cryptomanic/)
  - [Institute EMail ID](deepak.yadav.cse14@iitbhu.ac.in)
 
 ###### Faizan Uddin Fahad Khan
-Integrated Dual Degree, Part II
 Department of Computer Science and Engineering
 IIT(BHU), Varanasi, India
  - [Github](https://github.com/faizan-khan-iit)
